@@ -1,23 +1,15 @@
 /* Navigation Bar Styling */
 
-.myheader {
-    padding: 0;
-    margin: 0;
-    width: 100%;
+.my-nav {
     background-color: #FF90BC;
-    height: 60px;
 }
 
-.myNav {
-    background-color: #FF90BC;
-    font-size: 1.3rem;
-    justify-content: center;
+.my-button {
+    background-color: #FFC0D9;
 }
 
-.nav-item > a {
-    color: white;
-    width: 200px;
-    text-align: center;
+.navbar-nav {
+    margin: 0 auto;
 }
 
 /* Hero/Jumbotron Styling */
