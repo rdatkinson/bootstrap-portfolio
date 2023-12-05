@@ -1,3 +1,7 @@
+body {
+    background-color: #F9F9E0;
+}
+
 /* Navigation Bar Styling */
 
 .my-nav {
@@ -19,7 +23,7 @@
 /* Hero/Jumbotron Styling */
 
 .myHeader {
-    background-color: #F9F9E0;
+    background-color: #FFC0D9;
 }
 
 .me {
@@ -28,5 +32,39 @@
 }
 
 .heroContainer > .hero-title, .hero-intro {
-    color: #FFC0D9 !important;
+    color: white !important;
+}
+
+/* My Work Section Styling */
+
+.red {
+    border: 1px solid red;
+}
+
+.my-work {
+    padding: 0;
+}
+
+.card > img {
+    width: 100%;
+    height: 60%;
+}
+
+.card-body {
+    height: 100%;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    font-size: 1.5rem;
+    background-color: #8ACDD7;
+}
+
+.card {
+    height: 400px;
+    flex-basis: 100%;
+    margin: 20px;
+}
+
+.horiseon {
+    height: 600px;
 }
