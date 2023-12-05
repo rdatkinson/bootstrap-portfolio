@@ -15,7 +15,18 @@
 }
 
 .nav-item > a {
-    color: #F9F9E0;
+    color: white;
     width: 200px;
     text-align: center;
+}
+
+/* Hero/Jumbotron Styling */
+
+.me {
+    height: 200px;
+    width: 200px;
+}
+
+.myHeader {
+    background-color: #F9F9E0;
 }
