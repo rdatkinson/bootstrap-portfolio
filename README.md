@@ -1,7 +1,7 @@
 # bootstrap-portfolio
 
 ## Description
-This project is a webpage showcasing my portfolio of projects. It is designed in a way that I can continuously update it with projects I make in the future.
+This project is a webpage showcasing my portfolio of projects. It is designed in a way that I can continuously update it with projects I make in the future. You can view the deployed application via this link: https://rdatkinson.github.io/bootstrap-portfolio/
 
 ## Installation
 N/A
