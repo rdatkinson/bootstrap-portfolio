@@ -1,16 +1,21 @@
+/* Navigation Bar Styling */
+
 .myheader {
     padding: 0;
     margin: 0;
     width: 100%;
-    border: 1px solid black;
     background-color: #FF90BC;
+    height: 60px;
 }
 
 .myNav {
+    background-color: #FF90BC;
     font-size: 1.3rem;
     justify-content: center;
 }
 
 .nav-item > a {
+    color: #F9F9E0;
     width: 200px;
+    text-align: center;
 }
